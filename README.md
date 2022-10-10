@@ -11,7 +11,7 @@
 
 <br />
 
-<p>A virtual motorbike showroom or dealership targeted at motorcycle enthusiasts and curious individuals trying to learn about biker culture.</p>
+<h3>A virtual motorbike showroom or dealership targeted at motorcycle enthusiasts and curious individuals trying to learn about biker culture.</h3>
 
 <br />
 
