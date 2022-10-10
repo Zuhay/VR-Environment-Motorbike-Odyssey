@@ -29,8 +29,8 @@ Digital screens displaying information related to the showroom and the motorcycl
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/77344922/194906646-19c53c71-647d-4a9e-a6d0-d032a5151d2d.png" width=100% height=100%></td>
-    <td><img src="https://user-images.githubusercontent.com/77344922/194914671-b7b51c66-7b99-4a95-b4b7-920716bd7690.png" width=300 height=300></td>
+    <td><img src="https://user-images.githubusercontent.com/77344922/194906646-19c53c71-647d-4a9e-a6d0-d032a5151d2d.png" width=50% height=50%></td>
+    <td><img src="https://user-images.githubusercontent.com/77344922/194914671-b7b51c66-7b99-4a95-b4b7-920716bd7690.png" width=400 height=400></td>
   </tr>
 </table>
 
