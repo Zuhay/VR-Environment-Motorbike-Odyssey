@@ -1,7 +1,7 @@
 # VR-Environment-Motorbike-Odyssey
 <h2>An interactive virtual environment for motorbike enthusiasts!</h2>
 
-<strong>Virtual Reality Compatibility: &nbsp; <img height=30 width=40 src="https://user-images.githubusercontent.com/77344922/194920901-48079a2e-1309-4479-909b-0580588fbe05.png"> Meta Oculus Quest 2</strong>
+<strong>Virtual Reality Compatibility: &nbsp; <img height=20 width=30 src="https://user-images.githubusercontent.com/77344922/194922090-44dee412-d59e-434b-ba6e-c44819adb9ba.png)"> Meta Oculus Quest 2</strong>
 
 <p>The idea revolves around developing a motorbike showroom and dealership—the scene is set in the desert region near the sea, surrounded by palm trees. The showroom targeted motorcycle enthusiasts and curious individuals trying to learn about biker culture.</p>
 
