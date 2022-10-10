@@ -3,7 +3,9 @@
 
 <strong>Virtual Reality Compatibility: &nbsp; <img height=20 width=60 src="https://user-images.githubusercontent.com/77344922/194922203-4979985d-f9eb-4eae-b3d3-768a26f1da29.png"> Meta Oculus Quest 2</strong>
 
-<p>The idea revolves around developing a motorbike showroom and dealership—the scene is set in the desert region near the sea, surrounded by palm trees. The showroom targeted motorcycle enthusiasts and curious individuals trying to learn about biker culture.</p>
+<br />
+
+<p>Developing a virtual motorbike showroom or dealership. The showroom targeted motorcycle enthusiasts and curious individuals trying to learn about biker culture.</p>
 
 <br />
 
