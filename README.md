@@ -1,15 +1,20 @@
 # VR-Environment-Motorbike-Odyssey
-An interactive virtual environment for motorbike enthusiasts.
+<h2>An interactive virtual environment for motorbike enthusiasts!</h2>
 
 
 The idea revolves around developing a motorbike showroom and dealership—the scene is set in the desert region near the sea, surrounded by palm trees. The showroom targeted motorcycle enthusiasts and curious individuals trying to learn about biker culture. 
 
- 
-Exhibit Overview
+<br />
+
+<h3>Exhibit Overview</h3>
+
+<br />
 
 <p align=middle><img src = "https://user-images.githubusercontent.com/77344922/194905711-70f72343-c1b2-455b-a343-3f0cdb33e2c9.png"></p>
 
 The image above shows an overview of the virtual environment.
+
+<br />
 
 <b>Features</b>
 
@@ -17,6 +22,7 @@ Ray casting allows objects to be handled and controlled when a hit was registere
 
 Digital screens displaying information related to the showroom and the motorcycles. They are placed beside the bike models detailing their specifications briefly while also reviewing the models!
 
+<br />
 
 <table>
   <tr>
@@ -25,9 +31,11 @@ Digital screens displaying information related to the showroom and the motorcycl
   </tr>
 </table>
 
-
+<br />
 
 LED displays present on the showroom pillars are used for advertising motorbikes by displaying relevant promotional videos. When the user points the reticle at these displays, the video begins playing on the screen. The video stops automatically when the user shifts the reticle away from the object. Furthermore, the video restarts when gazed upon again.
+
+<br />
 
 ![Feature 2](https://user-images.githubusercontent.com/77344922/194908897-a73f6c96-b9e1-4834-9e35-d272f95cdc4a.png) ![Showroom Theater](https://user-images.githubusercontent.com/77344922/194909182-6853edc7-a5b0-4b1a-a8b2-485c563f8fbe.png)
 
