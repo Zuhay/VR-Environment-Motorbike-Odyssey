@@ -7,11 +7,11 @@
 
 <br />
 
-<strong>Built with &nbsp; <img height=20 width=20 src="https://user-images.githubusercontent.com/77344922/194920993-4ef0603a-2be1-4163-bbe1-9b3a8e328d6d.png">Unity Game Engine</strong>
+<strong>Built with &nbsp; <img height=20 width=20 src="https://user-images.githubusercontent.com/77344922/194920993-4ef0603a-2be1-4163-bbe1-9b3a8e328d6d.png">Unity Game Engine.</strong>
 
 <br />
 
-<p>Developing a virtual motorbike showroom or dealership targeted at motorcycle enthusiasts and curious individuals trying to learn about biker culture.</p>
+<p>A virtual motorbike showroom or dealership targeted at motorcycle enthusiasts and curious individuals trying to learn about biker culture.</p>
 
 <br />
 
