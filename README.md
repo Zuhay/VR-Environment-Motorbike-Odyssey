@@ -1,6 +1,6 @@
 # VR-Environment-Motorbike-Odyssey
 <h2>An interactive virtual environment for motorbike enthusiasts!</h2>
-
+<p font=bold>Compatibility: Oculus Quest 2 / PC</p>
 
 <p>The idea revolves around developing a motorbike showroom and dealership—the scene is set in the desert region near the sea, surrounded by palm trees. The showroom targeted motorcycle enthusiasts and curious individuals trying to learn about biker culture.</p>
 
@@ -19,6 +19,12 @@
 
 <br />
 
+<h4>Movement</h4>
+
+<p>The movement has been developed in multiple formats for the user to choose from.
+It is PC compatible (keyboard keys and mouse interaction). Alternatively, Oculus controllers and their input system with the help of a joystick and triggers. Moreover, teleportation has also been implemented as a movement option. A Teleportation Area script is assigned to the environment terrain. It allows the user to teleport anywhere within the defined terrain space while wearing the Oculus headset.
+The reticle can be seen moving with the headset as it was assigned as the custom reticle for the simulation.</p>
+
 <h4>Gaze Control</h4>
 
 <p>Ray casting allows objects to be handled and controlled when a hit was registered on a particular object's collider. When such objects are gazed at, i.e., when the reticle is placed on them, the user is able to interact with them. This function is used for developing information charts on the bike models displayed in the environment. 
@@ -29,8 +35,8 @@ Digital screens displaying information related to the showroom and the motorcycl
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/77344922/194906646-19c53c71-647d-4a9e-a6d0-d032a5151d2d.png" width=50% height=50%></td>
-    <td><img src="https://user-images.githubusercontent.com/77344922/194914671-b7b51c66-7b99-4a95-b4b7-920716bd7690.png" width=400 height=400></td>
+    <td><img src="https://user-images.githubusercontent.com/77344922/194906646-19c53c71-647d-4a9e-a6d0-d032a5151d2d.png" width=100% height=100%></td>
+    <td><img src="https://user-images.githubusercontent.com/77344922/194914671-b7b51c66-7b99-4a95-b4b7-920716bd7690.png" width=100% height=100%></td>
   </tr>
 </table>
 
@@ -57,4 +63,8 @@ Digital screens displaying information related to the showroom and the motorcycl
 
 <p align=middle><img height=60% width=60% src = "https://user-images.githubusercontent.com/77344922/194916236-1de0d263-a34c-4f67-8f5a-23a985634927.png"></p>
 <p align=middle>Helmet Collectibles</p>
+
+<br />
+
+<p font=bold>Developed with Unity Game Engine</p>
 
