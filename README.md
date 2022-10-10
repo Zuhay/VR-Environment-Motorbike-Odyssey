@@ -7,11 +7,11 @@ The idea revolves around developing a motorbike showroom and dealership—the sc
  
 Exhibit Overview
 
-![Overview Scene](https://user-images.githubusercontent.com/77344922/194905711-70f72343-c1b2-455b-a343-3f0cdb33e2c9.png)
+<p float=middle>![Overview Scene](https://user-images.githubusercontent.com/77344922/194905711-70f72343-c1b2-455b-a343-3f0cdb33e2c9.png)</p>
 
 The image above shows an overview of the virtual environment.
 
-Features
+<b>Features</b>
 
 Ray casting allows objects to be handled and controlled when a hit was registered on a particular object's collider. When such objects are gazed at, i.e., when the reticle is placed on them, the user is able to interact with them. This function is used for developing information charts on the bike models displayed in the environment. 
 
