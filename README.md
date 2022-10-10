@@ -17,6 +17,10 @@
 
 <h3>Features</h3>
 
+<br />
+
+<h4>Gaze Control</h4>
+
 <p>Ray casting allows objects to be handled and controlled when a hit was registered on a particular object's collider. When such objects are gazed at, i.e., when the reticle is placed on them, the user is able to interact with them. This function is used for developing information charts on the bike models displayed in the environment. 
 
 Digital screens displaying information related to the showroom and the motorcycles. They are placed beside the bike models detailing their specifications briefly while also reviewing the models!</p>
@@ -45,6 +49,12 @@ Digital screens displaying information related to the showroom and the motorcycl
 
 <br />
 
-<p align=middle><img src = "https://user-images.githubusercontent.com/77344922/194916236-1de0d263-a34c-4f67-8f5a-23a985634927.png"></p>
+<h4>Collectibles & Colliders</h4>
+
+<p>There are collectibles in the form of bike helmets present throughout the showroom's ground floor. The user is tasked with locating these items and collecting them to gain access to the upper floor of the showroom.</p>
+
+<br />
+
+<p align=middle><img height=350 width=350 src = "https://user-images.githubusercontent.com/77344922/194916236-1de0d263-a34c-4f67-8f5a-23a985634927.png"></p>
 <p align=middle>Helmet Collectibles</p>
 
