@@ -19,7 +19,7 @@
 
 <br />
 
-<p align=middle><img src = "https://user-images.githubusercontent.com/77344922/194905711-70f72343-c1b2-455b-a343-3f0cdb33e2c9.png"></p>
+<p align=middle><img height=70% width=70% src = "https://user-images.githubusercontent.com/77344922/194905711-70f72343-c1b2-455b-a343-3f0cdb33e2c9.png"></p>
 <p align=middle>Motorbike Showroom Overview</p>
 
 <br />
