@@ -5,7 +5,11 @@
 
 <br />
 
-<p>Developing a virtual motorbike showroom or dealership. The showroom targeted motorcycle enthusiasts and curious individuals trying to learn about biker culture.</p>
+<strong>Built with &nbsp; <img height=20 width=20 src="https://user-images.githubusercontent.com/77344922/194920993-4ef0603a-2be1-4163-bbe1-9b3a8e328d6d.png">Unity Game Engine</strong>
+
+<br />
+
+<p>Developing a virtual motorbike showroom or dealership targeted at motorcycle enthusiasts and curious individuals trying to learn about biker culture.</p>
 
 <br />
 
@@ -65,8 +69,8 @@ Digital screens displaying information related to the showroom and the motorcycl
 <p align=middle><img height=60% width=60% src = "https://user-images.githubusercontent.com/77344922/194916236-1de0d263-a34c-4f67-8f5a-23a985634927.png"></p>
 <p align=middle>Helmet Collectibles</p>
 
-<br />
+<strong>Developed by Zuhayr Khan</strong>
 
-<strong>Developed with &nbsp; <img height=20 width=20 src="https://user-images.githubusercontent.com/77344922/194920993-4ef0603a-2be1-4163-bbe1-9b3a8e328d6d.png">Unity Game Engine</strong>
+
 
 
