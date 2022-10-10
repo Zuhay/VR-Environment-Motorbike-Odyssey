@@ -20,8 +20,6 @@
 
 <h3>Features</h3>
 
-<br />
-
 <h4>Movement</h4>
 
 <p>The movement has been developed in multiple formats for the user to choose from.
