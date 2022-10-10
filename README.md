@@ -1,6 +1,8 @@
 # VR-Environment-Motorbike-Odyssey
 <h2>An interactive virtual environment for motorbike enthusiasts!</h2>
 
+<br />
+
 <strong>Virtual Reality Compatibility: &nbsp; <img height=20 width=60 src="https://user-images.githubusercontent.com/77344922/194922203-4979985d-f9eb-4eae-b3d3-768a26f1da29.png"> Meta Oculus Quest 2</strong>
 
 <br />
