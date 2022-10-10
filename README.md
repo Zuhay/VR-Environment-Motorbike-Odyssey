@@ -66,5 +66,5 @@ Digital screens displaying information related to the showroom and the motorcycl
 
 <br />
 
-<strong>Developed with <img height=20 width=20 src="https://user-images.githubusercontent.com/77344922/194920993-4ef0603a-2be1-4163-bbe1-9b3a8e328d6d.png">Unity Game Engine</strong>
-<strong>Compatibility: <img height=20 width=20 src="https://user-images.githubusercontent.com/77344922/194920901-48079a2e-1309-4479-909b-0580588fbe05.png"> Oculus Quest 2  / PC</strong>
+<strong>Developed with &nbsp; <img height=20 width=20 src="https://user-images.githubusercontent.com/77344922/194920993-4ef0603a-2be1-4163-bbe1-9b3a8e328d6d.png">Unity Game Engine</strong>
+<strong>Compatibility: &nbsp; <img height=20 width=30 src="https://user-images.githubusercontent.com/77344922/194920901-48079a2e-1309-4479-909b-0580588fbe05.png"> Oculus Quest 2  / PC</strong>
