@@ -17,6 +17,7 @@ Ray casting allows objects to be handled and controlled when a hit was registere
 
 Digital screens displaying information related to the showroom and the motorcycles. They are placed beside the bike models detailing their specifications briefly while also reviewing the models!
 
+
 <table>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/77344922/194906646-19c53c71-647d-4a9e-a6d0-d032a5151d2d.png" width=600 height=400></td>
@@ -24,7 +25,7 @@ Digital screens displaying information related to the showroom and the motorcycl
   </tr>
 </table>
 
-=50%x) ![Feature 1a]("" "Feature 1a" = 50%x)
+
 
 LED displays present on the showroom pillars are used for advertising motorbikes by displaying relevant promotional videos. When the user points the reticle at these displays, the video begins playing on the screen. The video stops automatically when the user shifts the reticle away from the object. Furthermore, the video restarts when gazed upon again.
 
