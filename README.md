@@ -25,8 +25,8 @@ Digital screens displaying information related to the showroom and the motorcycl
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/77344922/194906646-19c53c71-647d-4a9e-a6d0-d032a5151d2d.png" width=600 height=400></td>
-    <td><img src="https://user-images.githubusercontent.com/77344922/194914671-b7b51c66-7b99-4a95-b4b7-920716bd7690.png" width=600 height=400></td>
+    <td><img src="https://user-images.githubusercontent.com/77344922/194906646-19c53c71-647d-4a9e-a6d0-d032a5151d2d.png" width=600 height=350></td>
+    <td><img src="https://user-images.githubusercontent.com/77344922/194914671-b7b51c66-7b99-4a95-b4b7-920716bd7690.png" width=600 height=350></td>
   </tr>
 </table>
 
@@ -38,11 +38,13 @@ Digital screens displaying information related to the showroom and the motorcycl
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/77344922/194908897-a73f6c96-b9e1-4834-9e35-d272f95cdc4a.png" width=600 height=400></td>
-    <td><img src="https://user-images.githubusercontent.com/77344922/194909182-6853edc7-a5b0-4b1a-a8b2-485c563f8fbe.png" width=600 height=400></td>
+    <td><img src="https://user-images.githubusercontent.com/77344922/194908897-a73f6c96-b9e1-4834-9e35-d272f95cdc4a.png" width=600 height=350></td>
+    <td><img src="https://user-images.githubusercontent.com/77344922/194909182-6853edc7-a5b0-4b1a-a8b2-485c563f8fbe.png" width=600 height=350></td>
   </tr>
 </table>
 
 <br />
 
+<p align=middle><img src = "https://user-images.githubusercontent.com/77344922/194916236-1de0d263-a34c-4f67-8f5a-23a985634927.png"></p>
+<p align=middle>Helmet Collectibles</p>
 
