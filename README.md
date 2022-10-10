@@ -55,6 +55,6 @@ Digital screens displaying information related to the showroom and the motorcycl
 
 <br />
 
-<p align=middle><img height=350 width=350 src = "https://user-images.githubusercontent.com/77344922/194916236-1de0d263-a34c-4f67-8f5a-23a985634927.png"></p>
+<p align=middle><img height=60% width=auto src = "https://user-images.githubusercontent.com/77344922/194916236-1de0d263-a34c-4f67-8f5a-23a985634927.png"></p>
 <p align=middle>Helmet Collectibles</p>
 
