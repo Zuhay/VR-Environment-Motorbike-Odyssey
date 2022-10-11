@@ -75,11 +75,34 @@ Digital screens displaying information related to the showroom and the motorcycl
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/77344922/195089147-00cf5d23-dc86-4915-83cc-61bc17de7706.png" width=600 height=350></td>
-    <td><img src="https://user-images.githubusercontent.com/77344922/195089553-36ba1a2c-ab74-4a57-a938-c19b1b0d4f12.png" width=600 height=350></td>
+    <td><img src="https://user-images.githubusercontent.com/77344922/195089147-00cf5d23-dc86-4915-83cc-61bc17de7706.png" width=650 height=300></td>
+    <td><img src="https://user-images.githubusercontent.com/77344922/195089553-36ba1a2c-ab74-4a57-a938-c19b1b0d4f12.png" width=650 height=300></td>
   </tr>
 </table>
 <p align=middle>Automatic Doors within the Showroom</p>
+
+<br />
+
+<h3>Optimization</h3>
+
+<br />
+
+<h4>Level of Detail (LOD)</h4>
+
+<p>The bike assets are extremely heavy, sometimes crossing millions of triangles. LOD was applied to these assets to reduce their effect on the device's performance.Therefore, a lighter model was introduced to replace the heavier bikes for different LOD cycles depending on the distance of the user from the bike model.</p>
+
+<br />
+
+<img align=middle src = "https://user-images.githubusercontent.com/77344922/195090760-72d39891-dfff-4412-a105-0f95888d337b.png">
+<p align=middle>Optimized LOD for showroom motorbikes</p>
+
+<br />
+
+<h4>Occulusion Culling</h4>
+
+<p>We have observed that reducing the number of objects to be rendered increases the performance and provides a satisfactory experience. Occlusion Culling was implemented for that reason, not rendering any objects that are not in the view of the camera.</p>
+
+<br />
 
 <strong>Developed by Zuhayr Khan</strong>
 
