@@ -73,6 +73,10 @@ Digital screens displaying information related to the showroom and the motorcycl
 
 <br />
 
+<p>Large colliders placed on doors are used to trigger them as the user walks up to them or away from them. This provides a natural transition for the user as they move between rooms.</p>
+
+<br/ >
+
 <table>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/77344922/195089147-00cf5d23-dc86-4915-83cc-61bc17de7706.png" width=650 height=300></td>
