@@ -71,6 +71,16 @@ Digital screens displaying information related to the showroom and the motorcycl
 <p align=middle><img height=60% width=60% src = "https://user-images.githubusercontent.com/77344922/194916236-1de0d263-a34c-4f67-8f5a-23a985634927.png"></p>
 <p align=middle>Helmet Collectibles</p>
 
+<br />
+
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/77344922/195089147-00cf5d23-dc86-4915-83cc-61bc17de7706.png" width=600 height=350></td>
+    <td><img src="https://user-images.githubusercontent.com/77344922/195089553-36ba1a2c-ab74-4a57-a938-c19b1b0d4f12.png" width=600 height=350></td>
+  </tr>
+</table>
+<p align=middle>Automatic Doors within the Showroom</p>
+
 <strong>Developed by Zuhayr Khan</strong>
 
 
