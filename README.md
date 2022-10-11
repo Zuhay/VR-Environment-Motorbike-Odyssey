@@ -3,11 +3,11 @@
 
 <br />
 
-<strong>Virtual Reality Compatibility: &nbsp; <img align=middle height=25 width=80 src="https://user-images.githubusercontent.com/77344922/194922203-4979985d-f9eb-4eae-b3d3-768a26f1da29.png"> Meta Oculus Quest 2</strong>
+<strong>Virtual Reality Compatibility: &nbsp; <img align=middle height=25 width=80 src="https://user-images.githubusercontent.com/77344922/194922203-4979985d-f9eb-4eae-b3d3-768a26f1da29.png">   &nbsp; Meta Oculus Quest 2</strong>
 
 <br />
 
-<strong>Built with &nbsp; <img height=20 width=20 src="https://user-images.githubusercontent.com/77344922/194920993-4ef0603a-2be1-4163-bbe1-9b3a8e328d6d.png">Unity Game Engine.</strong>
+<strong>Built with &nbsp; <img height=20 width=20 src="https://user-images.githubusercontent.com/77344922/194920993-4ef0603a-2be1-4163-bbe1-9b3a8e328d6d.png">  &nbsp; Unity Game Engine.</strong>
 
 <br />
 
