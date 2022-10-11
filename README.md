@@ -93,7 +93,7 @@ Digital screens displaying information related to the showroom and the motorcycl
 
 <br />
 
-<img align=middle src = "https://user-images.githubusercontent.com/77344922/195090760-72d39891-dfff-4412-a105-0f95888d337b.png">
+<p align=middle><img src = "https://user-images.githubusercontent.com/77344922/195090760-72d39891-dfff-4412-a105-0f95888d337b.png"></p>
 <p align=middle>Optimized LOD for showroom motorbikes</p>
 
 <br />
