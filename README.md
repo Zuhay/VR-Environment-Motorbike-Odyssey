@@ -55,8 +55,8 @@ Digital screens displaying information related to the showroom and the motorcycl
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/77344922/194908897-a73f6c96-b9e1-4834-9e35-d272f95cdc4a.png" width=600 height=350></td>
-    <td><img src="https://user-images.githubusercontent.com/77344922/194909182-6853edc7-a5b0-4b1a-a8b2-485c563f8fbe.png" width=600 height=350></td>
+    <td><img src="https://user-images.githubusercontent.com/77344922/194908897-a73f6c96-b9e1-4834-9e35-d272f95cdc4a.png" width=600 height=300></td>
+    <td><img src="https://user-images.githubusercontent.com/77344922/194909182-6853edc7-a5b0-4b1a-a8b2-485c563f8fbe.png" width=600 height=300></td>
   </tr>
 </table>
 
@@ -79,8 +79,8 @@ Digital screens displaying information related to the showroom and the motorcycl
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/77344922/195089147-00cf5d23-dc86-4915-83cc-61bc17de7706.png" width=650 height=300></td>
-    <td><img src="https://user-images.githubusercontent.com/77344922/195089553-36ba1a2c-ab74-4a57-a938-c19b1b0d4f12.png" width=650 height=300></td>
+    <td><img src="https://user-images.githubusercontent.com/77344922/195089147-00cf5d23-dc86-4915-83cc-61bc17de7706.png" width=650 height=270></td>
+    <td><img src="https://user-images.githubusercontent.com/77344922/195089553-36ba1a2c-ab74-4a57-a938-c19b1b0d4f12.png" width=650 height=270></td>
   </tr>
 </table>
 <p align=middle>Automatic Doors within the Showroom</p>
